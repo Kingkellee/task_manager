@@ -29,9 +29,3 @@ const start = async () => {
 };
 
 start();
-
-// app.get('/api/v1/tasks') ---get all task
-// app.get('/api/v1/tasks/:id') ---get single task
-// app.post('/api/v1/tasks') ---post a task
-// app.('/api/v1/tasks/:id') ---update a task
-// app.delete('/api/v1/tasks/:id') ---delete a task
